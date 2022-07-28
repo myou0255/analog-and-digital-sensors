@@ -7,7 +7,7 @@
 
 الان سنبدء علمية التوصيل مع الاردوينو ، نضع حساس الحراره في منتصف البورد و نقوم بتوصيل Power مع الجزء الموجب من البورد و GND مع الجزء السالب من البورد و Vout مع A0 من الاردوينو   
 
-<img scr= https://user-images.githubusercontent.com/108413904/181600029-c04a86d1-2a20-48ff-90a5-ebce06f9f3dd.png >
+<img scr=https://user-images.githubusercontent.com/108413904/181600029-c04a86d1-2a20-48ff-90a5-ebce06f9f3dd.png >
 
 بعد ذلك نقوم باضافة الكود لتشغيل الدائرة 
 
